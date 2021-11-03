@@ -1,0 +1,10 @@
+C:\Users\hxtch\source\repos\LSU_Chau_Huynh\LSU_Chau_Huynh\bin\Debug\LSU_Chau_Huynh.exe.config
+C:\Users\hxtch\source\repos\LSU_Chau_Huynh\LSU_Chau_Huynh\bin\Debug\LSU_Chau_Huynh.exe
+C:\Users\hxtch\source\repos\LSU_Chau_Huynh\LSU_Chau_Huynh\bin\Debug\LSU_Chau_Huynh.pdb
+C:\Users\hxtch\source\repos\LSU_Chau_Huynh\LSU_Chau_Huynh\obj\Debug\LSU_Chau_Huynh.Form1.resources
+C:\Users\hxtch\source\repos\LSU_Chau_Huynh\LSU_Chau_Huynh\obj\Debug\LSU_Chau_Huynh.Properties.Resources.resources
+C:\Users\hxtch\source\repos\LSU_Chau_Huynh\LSU_Chau_Huynh\obj\Debug\LSU_Chau_Huynh.csproj.GenerateResource.cache
+C:\Users\hxtch\source\repos\LSU_Chau_Huynh\LSU_Chau_Huynh\obj\Debug\LSU_Chau_Huynh.csproj.CoreCompileInputs.cache
+C:\Users\hxtch\source\repos\LSU_Chau_Huynh\LSU_Chau_Huynh\obj\Debug\LSU_Chau_Huynh.exe
+C:\Users\hxtch\source\repos\LSU_Chau_Huynh\LSU_Chau_Huynh\obj\Debug\LSU_Chau_Huynh.pdb
+C:\Users\hxtch\source\repos\LSU_Chau_Huynh\LSU_Chau_Huynh\obj\Debug\LSU_Chau_Huynh.csproj.AssemblyReference.cache
